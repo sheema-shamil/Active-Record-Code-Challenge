@@ -52,7 +52,7 @@ The Entity Relationship Diagram below shows how the different models are associa
 
 A one-to-many relationship exists, meaning that one product or user can have many reviews. A many-to-many relationship exists, meaning that a user can have many products, and a product can have many users.
 
-Authors
+# Authors
 This project was contributed to by:
 [Sheema](https://github.com/sheema-shamil/Active-Record-Code-Challenge).
 You can check my github account for more info.
