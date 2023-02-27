@@ -13,7 +13,6 @@ During the development of this project, the following concepts were covered:
 3. Class and Instance Methods
 4. Active Record Querying
 
-For more information on the Ruby language, please visit the Ruby Docs.
 
 ## Pre-requisites
 - To use this repository, the following must be installed on your system:

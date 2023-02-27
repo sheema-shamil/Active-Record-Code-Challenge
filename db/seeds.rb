@@ -7,9 +7,9 @@ Review.destroy_all
 
 
 product1= Product.create(name: "pizza")
-product2= Product.create(name: "Beef")
+product2= Product.create(name: "pasta")
 product3= Product.create(name: "wheat")
-product4= Product.create(name: "maize")
+product4= Product.create(name: "corn")
 product5= Product.create(name: "rice")
 
 user1 = User.create(name: "Avocado")
