@@ -17,7 +17,7 @@ During the development of this project, the following concepts were covered:
 ## Pre-requisites
 - To use this repository, the following must be installed on your system:
 
-- An OS (Windows 10+, Linux or MacOS, running on x86 or arm architecture)
+- An OS (Windows 10+, Linux or MacOS, running on x86).
 Ruby - 3.1.+
 ## Installation
 To use this repository on your local machine, follow these simple steps:
